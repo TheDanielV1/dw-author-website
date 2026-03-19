@@ -110,6 +110,7 @@ a:hover {
 }
 .navbar nav a:hover {
   text-decoration: underline;
+  color: #e90505;
 }
 .spacer {
   height: 20px;
